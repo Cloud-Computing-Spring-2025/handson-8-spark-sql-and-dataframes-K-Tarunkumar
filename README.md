@@ -1,4 +1,3 @@
-Sure! Here's a more detailed README with specific tasks, code, and sample input/output.
 
 ---
 
